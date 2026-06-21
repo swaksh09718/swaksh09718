@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Everyone!
+This is Swaksh! Welcome to the tech world!!
+Through this website I will be sharing all the technology related information.
+So stay tuned!!
 
 <!--
 **swaksh09718/swaksh09718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
